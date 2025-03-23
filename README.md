@@ -22,7 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. Prof. Dr. İbrahim Yüksel, Otomatik Kontrol - Sistem Dinamiği ve 
+1. Prof. Dr. İbrahim Yüksel, Otomatik Kontrol - Sistem Dinamiği ve Denetim Sistemleri, 
 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
