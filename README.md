@@ -1,1 +1,1 @@
-# Otomatik Kontrol
+# Otomatik Kontrol Ders Kaynaklari
