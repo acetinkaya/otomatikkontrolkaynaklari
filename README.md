@@ -24,7 +24,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 ---
 
 1. Prof. Dr. İbrahim Yüksel, Otomatik Kontrol - Sistem Dinamiği ve Denetim Sistemleri, Dora Basım Yayın, Bursa, 2021.
-2. Prof. Dr. Asım Kurtoğlu, Otomatik Kontrol Teori 
+2. Prof. Dr. Asım Kurtoğlu, Otomatik Kontrol Teori ve Uygulama, 
 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
