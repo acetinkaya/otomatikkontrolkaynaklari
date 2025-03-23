@@ -1,1 +1,1 @@
-# otomatikkontrolkaynaklari
+# Otomatik Kontrol
