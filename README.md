@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Otomatik Kontrol** 
+**Otomatik Kontrol** alanında 
