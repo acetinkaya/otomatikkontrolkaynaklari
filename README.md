@@ -1,3 +1,3 @@
 # Otomatik Kontrol Ders Kaynaklari
 
-## Otomatik Kontrol ders çalışmaları ile ilgili kaynak kitapları, dokümanları ve eğitim materyallerini 
+## Otomatik Kontrol ders çalışmaları ile ilgili kaynak kitapları, dokümanları ve eğitim materyallerini içeren bir listedir. 
