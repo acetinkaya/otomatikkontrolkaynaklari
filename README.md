@@ -26,6 +26,6 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 
 
-⚡ **Bilgi Paylaştıkça
+⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
