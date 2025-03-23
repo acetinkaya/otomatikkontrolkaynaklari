@@ -4,5 +4,5 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Otomatik Kontrol** alanında temel ve ileri seviye kaynak 
+**Otomatik Kontrol** alanında temel ve ileri seviye kaynak kitapları içermektedir.
 
