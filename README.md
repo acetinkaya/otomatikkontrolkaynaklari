@@ -4,4 +4,5 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Otomatik Kontrol** alanında 
+**Otomatik Kontrol** alanında temel ve ileri
+
