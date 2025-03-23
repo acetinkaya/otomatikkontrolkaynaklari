@@ -19,8 +19,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
 | Otomatik Kontrol - Sistem Dinamiği ve Denetim Sistemleri | Otomatik Kontrol alanında ders kitabıdır. | 978-605-247-311-5 | Dora Basım Yayın | [ Link ](https://dorayayincilik.com.tr/kitap-otomatik-kontrol-sistem-dinamigi-ve-denetim-sistemleri-280.html)| 1. |
-| Otomatik Kontrol Teori ve Uygulama | Otomatik Kontrol alanında 
-
+| Otomatik Kontrol Teori ve Uygulama | Otomatik Kontrol alanında matlab uygulamalı ders kitabıdır. | 
 
 ---
 
