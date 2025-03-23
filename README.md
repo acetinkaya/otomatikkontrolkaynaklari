@@ -22,7 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. Prof. Dr. 
+1. Prof. Dr. İbrahim Yüksel,
 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
