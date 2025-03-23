@@ -1,3 +1,3 @@
 # Otomatik Kontrol Ders Kaynaklari
 
-## Otomatik 
+## Otomatik Kontrol 
